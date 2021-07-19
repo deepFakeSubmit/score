@@ -16,7 +16,7 @@ ProjectDir
 |   |  ├──...
 |
 ├──code&annotations.ipynb
-├──code&annotations.pdf（ipynb的pdf版本，方便查看）
+├──code&annotations.html（ipynb的html版本，方便查看）
 ```
 ## 实验环境
 python3.7
