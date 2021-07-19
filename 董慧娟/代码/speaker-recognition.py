@@ -121,7 +121,8 @@ def task_predict(input_dirs):
     for d in dirs:
         wavs = glob.glob(d + '/*.wav')
         print(wavs)
-        file_handle = open('1.txt', mode='w')
+        #将预测结果写入文件
+        file_handle = open('eval1.txt', mode='w')
         for wav in wavs:
             print(wav)
             fs, signal = read_wav(wav)
