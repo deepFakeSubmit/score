@@ -21,13 +21,17 @@ ProjectDir
 ## 实验环境
 python3.7
 需要拥有以下库依赖
+
 必选：
+
 librosa
 tensorflow
 keras
 numpy
 spafe
+
 可选：
+
 pandas
 matplotlib
 seaborn
