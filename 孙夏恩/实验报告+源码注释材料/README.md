@@ -31,6 +31,6 @@ spafe
 pandas
 matplotlib
 seaborn
-其余依赖可以视情况，按照报错提示安装上即可
+
 ## 实验运行
 使用jupyterlab、jupyternotebook打开code&annotations.ipynb依次阅读代码模块标题，按顺序运行即可实现训练、验证、评测并保存结果等实验要求
