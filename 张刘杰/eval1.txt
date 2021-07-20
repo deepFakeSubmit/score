@@ -29,7 +29,7 @@ LA_E_5394154 spoof
 LA_E_9708168 spoof
 LA_E_2763561 spoof
 LA_E_3519408 bonafide
-LA_E_5479759 bonafide
+LA_E_5479759 spoof
 LA_E_4740833 spoof
 LA_E_7370148 spoof
 LA_E_7024740 spoof
@@ -98,7 +98,7 @@ LA_E_1182059 spoof
 LA_E_1241538 spoof
 LA_E_4534238 bonafide
 LA_E_7651437 bonafide
-LA_E_3258142 spoof
+LA_E_3258142 bonafide
 LA_E_4756660 spoof
 LA_E_5074928 bonafide
 LA_E_3668230 bonafide
@@ -113,7 +113,7 @@ LA_E_4819819 spoof
 LA_E_2995196 spoof
 LA_E_7039349 bonafide
 LA_E_2605744 spoof
-LA_E_6634820 bonafide
+LA_E_6634820 spoof
 LA_E_6936360 spoof
 LA_E_9447478 spoof
 LA_E_7925288 spoof
@@ -179,7 +179,7 @@ LA_E_8055687 spoof
 LA_E_2995354 spoof
 LA_E_3370988 spoof
 LA_E_8550023 spoof
-LA_E_6671657 bonafide
+LA_E_6671657 spoof
 LA_E_1970008 spoof
 LA_E_3724542 bonafide
 LA_E_2297779 spoof
@@ -222,7 +222,7 @@ LA_E_3652225 spoof
 LA_E_9178119 spoof
 LA_E_1621853 spoof
 LA_E_3803336 spoof
-LA_E_4228524 spoof
+LA_E_4228524 bonafide
 LA_E_6483420 spoof
 LA_E_7717932 bonafide
 LA_E_5923383 bonafide
@@ -253,13 +253,13 @@ LA_E_2202905 spoof
 LA_E_2926519 spoof
 LA_E_1751798 bonafide
 LA_E_1950095 spoof
-LA_E_6782136 bonafide
+LA_E_6782136 spoof
 LA_E_7910040 spoof
 LA_E_6286183 bonafide
 LA_E_8297314 spoof
 LA_E_6577257 spoof
 LA_E_5864268 spoof
-LA_E_6198432 spoof
+LA_E_6198432 bonafide
 LA_E_2717071 spoof
 LA_E_2709595 spoof
 LA_E_6303766 spoof
@@ -372,7 +372,7 @@ LA_E_2276185 spoof
 LA_E_8327304 bonafide
 LA_E_7082564 spoof
 LA_E_7160195 spoof
-LA_E_2767332 spoof
+LA_E_2767332 bonafide
 LA_E_3452082 spoof
 LA_E_7496719 spoof
 LA_E_7125073 spoof
@@ -533,7 +533,7 @@ LA_E_4736581 bonafide
 LA_E_7894128 spoof
 LA_E_5929393 spoof
 LA_E_6000129 spoof
-LA_E_8470493 bonafide
+LA_E_8470493 spoof
 LA_E_8079875 bonafide
 LA_E_7137193 spoof
 LA_E_9577836 spoof
@@ -614,7 +614,7 @@ LA_E_3106977 spoof
 LA_E_1299089 spoof
 LA_E_7865717 spoof
 LA_E_1172997 bonafide
-LA_E_9142395 spoof
+LA_E_9142395 bonafide
 LA_E_9804378 bonafide
 LA_E_5240570 bonafide
 LA_E_8212125 spoof
@@ -719,7 +719,7 @@ LA_E_5052713 bonafide
 LA_E_5601278 bonafide
 LA_E_2466242 spoof
 LA_E_4933975 spoof
-LA_E_5269774 spoof
+LA_E_5269774 bonafide
 LA_E_7562508 spoof
 LA_E_6907372 spoof
 LA_E_6476378 spoof
@@ -982,7 +982,7 @@ LA_E_1018246 spoof
 LA_E_2012812 spoof
 LA_E_8266571 bonafide
 LA_E_6284664 spoof
-LA_E_3518812 bonafide
+LA_E_3518812 spoof
 LA_E_1052690 spoof
 LA_E_1293554 spoof
 LA_E_3190126 bonafide
@@ -1050,7 +1050,7 @@ LA_E_5037612 bonafide
 LA_E_3802678 bonafide
 LA_E_3751967 spoof
 LA_E_5200206 spoof
-LA_E_9785379 bonafide
+LA_E_9785379 spoof
 LA_E_5322916 bonafide
 LA_E_5885270 spoof
 LA_E_6146943 spoof
@@ -1214,7 +1214,7 @@ LA_E_3457833 bonafide
 LA_E_6902777 spoof
 LA_E_4089541 spoof
 LA_E_3869530 spoof
-LA_E_4048418 bonafide
+LA_E_4048418 spoof
 LA_E_7785403 spoof
 LA_E_2274571 bonafide
 LA_E_5594284 spoof
@@ -1498,7 +1498,7 @@ LA_E_4637401 spoof
 LA_E_6257736 bonafide
 LA_E_2250126 bonafide
 LA_E_3144031 spoof
-LA_E_8324840 spoof
+LA_E_8324840 bonafide
 LA_E_5200158 bonafide
 LA_E_4986561 spoof
 LA_E_7056254 spoof
@@ -1822,7 +1822,7 @@ LA_E_1927927 spoof
 LA_E_8323459 spoof
 LA_E_9031863 spoof
 LA_E_6378577 spoof
-LA_E_7374906 spoof
+LA_E_7374906 bonafide
 LA_E_8374078 spoof
 LA_E_9916534 spoof
 LA_E_2506208 spoof
@@ -1839,7 +1839,7 @@ LA_E_1960540 spoof
 LA_E_4529695 spoof
 LA_E_2803006 spoof
 LA_E_1218662 bonafide
-LA_E_7638271 bonafide
+LA_E_7638271 spoof
 LA_E_8829852 bonafide
 LA_E_1980939 spoof
 LA_E_7542205 bonafide
@@ -1961,7 +1961,7 @@ LA_E_3587931 bonafide
 LA_E_1905657 spoof
 LA_E_9489426 spoof
 LA_E_9405103 spoof
-LA_E_6390411 bonafide
+LA_E_6390411 spoof
 LA_E_5041617 bonafide
 LA_E_6775383 spoof
 LA_E_2719931 spoof
@@ -2302,7 +2302,7 @@ LA_E_1466181 spoof
 LA_E_5666676 spoof
 LA_E_2239669 spoof
 LA_E_5805497 spoof
-LA_E_2121125 bonafide
+LA_E_2121125 spoof
 LA_E_8745281 bonafide
 LA_E_9372737 spoof
 LA_E_4817952 bonafide
@@ -2361,7 +2361,7 @@ LA_E_5750021 spoof
 LA_E_8952376 spoof
 LA_E_7659739 bonafide
 LA_E_7906106 spoof
-LA_E_6361648 bonafide
+LA_E_6361648 spoof
 LA_E_9769191 spoof
 LA_E_4468409 bonafide
 LA_E_5996172 bonafide
@@ -2409,7 +2409,7 @@ LA_E_7338618 spoof
 LA_E_7615939 spoof
 LA_E_3035145 spoof
 LA_E_1079089 spoof
-LA_E_2690355 spoof
+LA_E_2690355 bonafide
 LA_E_1957306 bonafide
 LA_E_1450973 spoof
 LA_E_6168660 spoof
@@ -2813,7 +2813,7 @@ LA_E_7990111 spoof
 LA_E_3068538 bonafide
 LA_E_5438679 bonafide
 LA_E_6152770 spoof
-LA_E_8580717 spoof
+LA_E_8580717 bonafide
 LA_E_3049635 spoof
 LA_E_7620498 spoof
 LA_E_9774521 bonafide
@@ -3060,7 +3060,7 @@ LA_E_7848111 spoof
 LA_E_8401778 bonafide
 LA_E_8631503 spoof
 LA_E_7615471 spoof
-LA_E_2094654 spoof
+LA_E_2094654 bonafide
 LA_E_3783078 bonafide
 LA_E_7281023 spoof
 LA_E_6100260 bonafide
@@ -3079,7 +3079,7 @@ LA_E_6399735 spoof
 LA_E_7735960 bonafide
 LA_E_3601764 spoof
 LA_E_4533923 bonafide
-LA_E_6383292 bonafide
+LA_E_6383292 spoof
 LA_E_5519933 spoof
 LA_E_6253342 spoof
 LA_E_7447427 bonafide
@@ -3180,7 +3180,7 @@ LA_E_5645025 bonafide
 LA_E_2802378 spoof
 LA_E_5390433 spoof
 LA_E_1526034 spoof
-LA_E_6158776 spoof
+LA_E_6158776 bonafide
 LA_E_7021965 spoof
 LA_E_2945591 spoof
 LA_E_4860376 bonafide
@@ -3373,7 +3373,7 @@ LA_E_2671418 spoof
 LA_E_2036560 spoof
 LA_E_8539625 spoof
 LA_E_4661683 spoof
-LA_E_4019542 bonafide
+LA_E_4019542 spoof
 LA_E_9162677 spoof
 LA_E_2741159 spoof
 LA_E_3779174 spoof
@@ -3421,7 +3421,7 @@ LA_E_6897985 spoof
 LA_E_2226495 spoof
 LA_E_6014213 spoof
 LA_E_3001883 spoof
-LA_E_7751135 spoof
+LA_E_7751135 bonafide
 LA_E_3977888 spoof
 LA_E_1549503 spoof
 LA_E_1651536 spoof
@@ -3584,7 +3584,7 @@ LA_E_9509256 spoof
 LA_E_3739591 bonafide
 LA_E_3768434 bonafide
 LA_E_3992721 spoof
-LA_E_2157685 spoof
+LA_E_2157685 bonafide
 LA_E_2946982 spoof
 LA_E_6404281 spoof
 LA_E_1630773 bonafide
@@ -3606,7 +3606,7 @@ LA_E_7383502 spoof
 LA_E_7887151 spoof
 LA_E_5567417 spoof
 LA_E_7878859 bonafide
-LA_E_2870802 bonafide
+LA_E_2870802 spoof
 LA_E_6839054 spoof
 LA_E_7581066 spoof
 LA_E_1914228 spoof
@@ -3676,11 +3676,11 @@ LA_E_8853220 spoof
 LA_E_5132798 spoof
 LA_E_8676072 spoof
 LA_E_4142431 bonafide
-LA_E_1389793 spoof
+LA_E_1389793 bonafide
 LA_E_2548563 spoof
 LA_E_7411205 spoof
 LA_E_4723882 spoof
-LA_E_2881840 bonafide
+LA_E_2881840 spoof
 LA_E_2839569 spoof
 LA_E_1592255 spoof
 LA_E_5967112 spoof
@@ -3972,7 +3972,7 @@ LA_E_6672442 bonafide
 LA_E_7946632 spoof
 LA_E_1612120 spoof
 LA_E_6323141 spoof
-LA_E_8053690 spoof
+LA_E_8053690 bonafide
 LA_E_5207476 spoof
 LA_E_8851712 spoof
 LA_E_2744728 bonafide
@@ -4007,7 +4007,7 @@ LA_E_1897503 spoof
 LA_E_7852728 spoof
 LA_E_6263606 bonafide
 LA_E_1097845 spoof
-LA_E_3170044 spoof
+LA_E_3170044 bonafide
 LA_E_2796636 spoof
 LA_E_2845486 spoof
 LA_E_2684990 spoof
@@ -4149,7 +4149,7 @@ LA_E_3125225 bonafide
 LA_E_6889500 spoof
 LA_E_5982324 spoof
 LA_E_9241177 spoof
-LA_E_5876251 spoof
+LA_E_5876251 bonafide
 LA_E_4854221 spoof
 LA_E_9852029 bonafide
 LA_E_7879655 spoof
@@ -4260,7 +4260,7 @@ LA_E_2157871 spoof
 LA_E_4215065 bonafide
 LA_E_9369600 spoof
 LA_E_9023016 spoof
-LA_E_4249208 bonafide
+LA_E_4249208 spoof
 LA_E_9467926 bonafide
 LA_E_2888342 spoof
 LA_E_8630327 spoof
@@ -4582,7 +4582,7 @@ LA_E_1329086 spoof
 LA_E_2983513 bonafide
 LA_E_5302716 spoof
 LA_E_4920014 bonafide
-LA_E_8156909 spoof
+LA_E_8156909 bonafide
 LA_E_9131466 bonafide
 LA_E_3422350 bonafide
 LA_E_1586427 spoof
@@ -4696,7 +4696,7 @@ LA_E_9985113 spoof
 LA_E_9320880 bonafide
 LA_E_6718346 spoof
 LA_E_2148838 bonafide
-LA_E_8355478 spoof
+LA_E_8355478 bonafide
 LA_E_6701537 bonafide
 LA_E_9759908 bonafide
 LA_E_8582293 spoof
@@ -4746,7 +4746,7 @@ LA_E_2246166 spoof
 LA_E_6067436 spoof
 LA_E_3147623 bonafide
 LA_E_8433980 bonafide
-LA_E_7292656 spoof
+LA_E_7292656 bonafide
 LA_E_6468904 spoof
 LA_E_2822555 spoof
 LA_E_4198807 bonafide
@@ -4872,7 +4872,7 @@ LA_E_1967506 bonafide
 LA_E_3062382 spoof
 LA_E_1106903 spoof
 LA_E_5064167 spoof
-LA_E_6757623 bonafide
+LA_E_6757623 spoof
 LA_E_6002957 spoof
 LA_E_4598658 spoof
 LA_E_8435966 spoof
@@ -4929,7 +4929,7 @@ LA_E_7437176 spoof
 LA_E_7611723 spoof
 LA_E_2865545 bonafide
 LA_E_2923944 spoof
-LA_E_9152955 bonafide
+LA_E_9152955 spoof
 LA_E_2115926 spoof
 LA_E_6049913 spoof
 LA_E_7793896 spoof
@@ -5107,7 +5107,7 @@ LA_E_8759239 bonafide
 LA_E_6313738 bonafide
 LA_E_7342266 spoof
 LA_E_1845902 spoof
-LA_E_7771411 spoof
+LA_E_7771411 bonafide
 LA_E_1894508 spoof
 LA_E_4268935 spoof
 LA_E_6981658 spoof
@@ -5157,7 +5157,7 @@ LA_E_2289168 spoof
 LA_E_3459628 spoof
 LA_E_1027501 spoof
 LA_E_2242596 spoof
-LA_E_4277910 bonafide
+LA_E_4277910 spoof
 LA_E_2030571 bonafide
 LA_E_3812144 spoof
 LA_E_7336998 spoof
@@ -5187,13 +5187,13 @@ LA_E_7162772 spoof
 LA_E_3150693 spoof
 LA_E_5195142 spoof
 LA_E_5459325 spoof
-LA_E_3802797 bonafide
+LA_E_3802797 spoof
 LA_E_9412515 bonafide
 LA_E_1469646 bonafide
 LA_E_5714219 spoof
 LA_E_3998141 bonafide
 LA_E_8010247 bonafide
-LA_E_1917043 spoof
+LA_E_1917043 bonafide
 LA_E_5965246 spoof
 LA_E_8065717 spoof
 LA_E_5389313 spoof
@@ -5283,7 +5283,7 @@ LA_E_1377603 bonafide
 LA_E_5654105 spoof
 LA_E_1436934 spoof
 LA_E_4363381 bonafide
-LA_E_9971712 bonafide
+LA_E_9971712 spoof
 LA_E_7484771 spoof
 LA_E_1793780 bonafide
 LA_E_5593077 spoof
@@ -5379,13 +5379,13 @@ LA_E_2452482 spoof
 LA_E_7362634 spoof
 LA_E_1601874 spoof
 LA_E_6258053 spoof
-LA_E_4737609 bonafide
+LA_E_4737609 spoof
 LA_E_5677274 spoof
 LA_E_8743795 bonafide
 LA_E_3796398 bonafide
 LA_E_5361706 spoof
 LA_E_6377921 spoof
-LA_E_7829299 spoof
+LA_E_7829299 bonafide
 LA_E_3106797 bonafide
 LA_E_4648436 spoof
 LA_E_8577954 bonafide
@@ -5614,7 +5614,7 @@ LA_E_4944190 spoof
 LA_E_7509567 spoof
 LA_E_6007877 spoof
 LA_E_8201711 spoof
-LA_E_3998131 spoof
+LA_E_3998131 bonafide
 LA_E_5549172 spoof
 LA_E_7026378 spoof
 LA_E_2985252 bonafide
@@ -5693,7 +5693,7 @@ LA_E_2081003 spoof
 LA_E_2797646 bonafide
 LA_E_6738493 spoof
 LA_E_6005186 spoof
-LA_E_5651921 spoof
+LA_E_5651921 bonafide
 LA_E_7316304 spoof
 LA_E_7192576 spoof
 LA_E_7229725 bonafide
@@ -5902,7 +5902,7 @@ LA_E_5925388 spoof
 LA_E_1881920 spoof
 LA_E_2993076 spoof
 LA_E_3311294 spoof
-LA_E_5992007 bonafide
+LA_E_5992007 spoof
 LA_E_3381638 bonafide
 LA_E_8140511 spoof
 LA_E_9329254 bonafide
@@ -6198,7 +6198,7 @@ LA_E_4849025 bonafide
 LA_E_7989705 spoof
 LA_E_1440690 spoof
 LA_E_8889764 spoof
-LA_E_1377788 bonafide
+LA_E_1377788 spoof
 LA_E_6811684 spoof
 LA_E_3053820 bonafide
 LA_E_9667533 spoof
@@ -6378,7 +6378,7 @@ LA_E_7402642 spoof
 LA_E_9867415 bonafide
 LA_E_9666932 bonafide
 LA_E_1264585 spoof
-LA_E_4809206 bonafide
+LA_E_4809206 spoof
 LA_E_3222414 bonafide
 LA_E_3391140 spoof
 LA_E_2555643 bonafide
@@ -6457,7 +6457,7 @@ LA_E_6176335 spoof
 LA_E_8990426 spoof
 LA_E_2919347 bonafide
 LA_E_9782406 spoof
-LA_E_8033537 spoof
+LA_E_8033537 bonafide
 LA_E_9052826 bonafide
 LA_E_7448390 spoof
 LA_E_6575727 spoof
@@ -6692,7 +6692,7 @@ LA_E_7513192 bonafide
 LA_E_9413676 bonafide
 LA_E_4015640 spoof
 LA_E_8206305 spoof
-LA_E_1687863 spoof
+LA_E_1687863 bonafide
 LA_E_1868427 bonafide
 LA_E_3636560 bonafide
 LA_E_6610193 spoof
@@ -6790,7 +6790,7 @@ LA_E_6415659 spoof
 LA_E_2788402 bonafide
 LA_E_9139617 bonafide
 LA_E_1290321 bonafide
-LA_E_9695853 bonafide
+LA_E_9695853 spoof
 LA_E_4223486 spoof
 LA_E_6176694 bonafide
 LA_E_8819192 bonafide
@@ -6995,3 +6995,6 @@ LA_E_3530988 spoof
 LA_E_9783935 spoof
 LA_E_7708650 bonafide
 LA_E_7971395 spoof
+LA_E_1796079 spoof
+LA_E_3586145 bonafide
+LA_E_7605750 spoof
